@@ -1,0 +1,33 @@
+item {
+  id: 1
+  name: 'Rs10'
+}
+
+item {
+  id: 2
+  name: 'Rs20'
+}
+
+item {
+  id: 3
+  name: 'Rs50'
+}
+
+item {
+  id: 4
+  name: 'Rs100'
+}
+
+item {
+  id: 5
+  name: 'Rs200'
+}
+
+item {
+  id: 6
+  name: 'Rs500'
+}
+item {
+  id: 7
+  name: 'Rs2000'
+}

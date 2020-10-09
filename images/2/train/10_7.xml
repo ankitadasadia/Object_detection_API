@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>10 (7).jpg</filename>
+	<path>C:\Users\Anku\Desktop\images\training\10 (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1394</width>
+		<height>872</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rs10</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>13</ymin>
+			<xmax>1394</xmax>
+			<ymax>703</ymax>
+		</bndbox>
+	</object>
+</annotation>

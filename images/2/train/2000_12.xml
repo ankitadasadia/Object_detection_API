@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>2000 (12).jpg</filename>
+	<path>C:\Users\Anku\Desktop\images\training\2000 (12).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>395</width>
+		<height>274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rs2000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>82</ymin>
+			<xmax>357</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

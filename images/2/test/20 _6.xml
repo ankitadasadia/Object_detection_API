@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>20 (6).jpg</filename>
+	<path>C:\Users\Anku\Desktop\images\validation\20 (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1265</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rs20</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>50</ymin>
+			<xmax>1265</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>

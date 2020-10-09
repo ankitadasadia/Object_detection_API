@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>500 (6).jpg</filename>
+	<path>C:\Users\Anku\Desktop\images\validation\500 (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rs500</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>64</ymin>
+			<xmax>976</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+</annotation>

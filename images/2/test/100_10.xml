@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>100 (10).jpg</filename>
+	<path>C:\Users\Anku\Desktop\images\validation\100 (10).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>545</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rs100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>60</ymin>
+			<xmax>934</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>
